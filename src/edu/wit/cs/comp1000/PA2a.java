@@ -1,5 +1,13 @@
 package edu.wit.cs.comp1000;
 
+/**
+ * Solution to the first programming assignment.
+ * Does calculations on 5 numbers.
+ * 
+ * @author Jack Huckins
+ */
+// Jack Huckins
+
 import java.util.Scanner;
 
 // TODO: document this class
@@ -98,6 +106,8 @@ public class PA2a {
 			System.out.printf("The average of the %.0f non-positive numbers: %.2f%n",neg_c,neg_avg);
 		}
 		System.out.printf("The average of the 5 numbers: %.2f%n",overall_avg);
+		
+		input.close();
 	}
 
 }
