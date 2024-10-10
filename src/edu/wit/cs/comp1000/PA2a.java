@@ -1,13 +1,12 @@
 package edu.wit.cs.comp1000;
 
 /**
- * Solution to the first programming assignment.
- * Does calculations on 5 numbers.
+ * Solution to the second programming assignment.
+ * Calculates sum and average of positive and negative numbers
  * 
  * @author Jack Huckins
  */
 // Jack Huckins
-
 import java.util.Scanner;
 
 // TODO: document this class
@@ -109,5 +108,4 @@ public class PA2a {
 		
 		input.close();
 	}
-
 }

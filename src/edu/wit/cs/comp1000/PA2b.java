@@ -1,7 +1,7 @@
 package edu.wit.cs.comp1000;
 
 /**
- * Solution to the first programming assignment.
+ * Solution to the second programming assignment.
  * Calculates Roots
  * 
  * @author Jack Huckins
